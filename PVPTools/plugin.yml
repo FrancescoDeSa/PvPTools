@@ -1,0 +1,6 @@
+name: PvPTools
+main: com.github.francescodesa.pvptools.PvPTools
+version: 0.0.1
+description: Gives server admins more control on pvp, (multi-kills)
+author: FrancescoDeSa
+depend: [Vault]
